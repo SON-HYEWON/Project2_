@@ -10,10 +10,10 @@
   다시말해, 이들에게 `와인 평가 점수`라는 것은 와인을 선택하는 데에 중요한 척도 중 하나인 것입니다.
 - 이러한 `와인 평가 점수`를 ML을 통해 예측하는 것이 이번 프로젝트의 목표입니다.
 
-## 2. Dataset
+## 2. DataSet
 [해당 링크](https://www.kaggle.com/rajyellow46/wine-quality)의 데이터 셋을 이용했습니다.  
 
-## 3. Model structure
+## 3. Model Evaluation
 4가지 모델을 비교해 본 결과, 정밀도가 가장 높은 `Random Forest`모델을 채택하게 되었습니다.  
 해당 모델의 confusion matrix는 다음과 같습니다.  
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124703810-ec8b3300-df2d-11eb-8fb6-f74c1a5d650a.png">
