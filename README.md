@@ -17,3 +17,6 @@
 4가지 모델을 비교해 본 결과, 정밀도가 가장 높은 `Random Forest`모델을 채택하게 되었습니다.  
 해당 모델의 confusion matrix는 다음과 같습니다.  
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124703810-ec8b3300-df2d-11eb-8fb6-f74c1a5d650a.png">
+
+## 4. 프로젝트 정리
+- [프로젝트 발표 자료 링크](https://github.com/hyewonsonn/Project2_Wine-planning/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_Section2.pdf)
